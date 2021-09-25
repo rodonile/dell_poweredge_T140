@@ -12,5 +12,5 @@
 - re-enable DELL's dynamic speed control algorithm for CPU temps > 85C and air temp > 50C (safety feature)
 
 ### How to use the script
-- set a cronjob to call the script every minute (redirect standard output to log file)
-  --> */1 * * * * /dell_ipmi_fan_control.sh >> /fan_logs.log 2>&1
+- set a cronjob to call the script every minute (redirect standard output to log file) \n
+   --> */1 * * * * /dell_ipmi_fan_control.sh >> /fan_logs.log 2>&1
