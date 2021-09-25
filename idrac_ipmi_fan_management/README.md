@@ -8,7 +8,7 @@
 
 ### Script operation description
 - 30% PWM speed at normal temperatures ( CPU temp < 55C and air temp in the case < 33C )
-- 35% - 50% PWN gradual PWM increases according to CPU temp increase 
+- 35% - 50% gradual PWM increases according to CPU temp increase 
 - re-enable DELL's dynamic speed control algorithm for CPU temps > 85C and air temp > 50C (safety feature)
 
 ### How to use the script
