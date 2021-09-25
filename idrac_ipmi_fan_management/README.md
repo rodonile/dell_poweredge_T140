@@ -3,7 +3,7 @@
 
 ### Use case
 - The script sets a static speed to the 2 fans (cpu fan and case fan) depending on temperature
-- WHY: The default dynamic PWM algorithm from DELL goes crazy with speed (sounds like a jet engine...), especially with 
+- WHY: The default dynamic PWM algorithm from DELL goes crazy with speed (80%-100% PWM, sounds like a jet engine...) especially with 
   non-officially-supported PCI devices plugged in like my Nvidia GPU 
 
 ### Script operation description
